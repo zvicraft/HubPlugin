@@ -1,0 +1,4 @@
+name: HubPlugin
+version: '${project.version}'
+main: ml.zvicraft.dev.hubplugin.HubPlugin
+api-version: 1.18
